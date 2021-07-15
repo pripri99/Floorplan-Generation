@@ -1,5 +1,6 @@
 # Floorplan Generation
 
+Floorplan Generation Project for MAKET (https://www.maket.ca/)
 
 # Data Generation
 Due to the lack of floorplan dataset. Try to generate our own dataset from  floorplan images on the website https://www.planimage.com/

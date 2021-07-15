@@ -6,6 +6,7 @@ Due to the lack of floorplan dataset. Try to generate our own dataset from image
 
 Reference for Unet model:
 O. Ronneberger, P. Fischer, and T. Brox, “U-Net: Convolutional Networks for Biomedical Image Segmentation,” arXiv.org, 18-May-2015. [Online]. Available: https://arxiv.org/abs/1505.04597. [Accessed: 4-May-2021]. 
+T. Sterbak, “U-Net for segmenting seismic images with keras,” Depends on the definition, 14-Apr-2020. [Online]. Available: https://www.depends-on-the-definition.com/unet-keras-segmenting-images/. [Accessed: 15-Jul-2021]. 
 
 # Generate Floorplan Image
 Data: Cubicasa5k (https://github.com/CubiCasa/CubiCasa5k) and CubiGraph5k (https://github.com/luyueheng/CubiGraph5K)

@@ -2,11 +2,15 @@
 
 
 # Data Generation
+Due to the lack of floorplan dataset. Try to generate our own dataset from images on the webstie
+
+Reference for Unet model:
+O. Ronneberger, P. Fischer, and T. Brox, “U-Net: Convolutional Networks for Biomedical Image Segmentation,” arXiv.org, 18-May-2015. [Online]. Available: https://arxiv.org/abs/1505.04597. [Accessed: 4-May-2021]. 
 
 # Generate Floorplan Image
 Data: Cubicasa5k (https://github.com/CubiCasa/CubiCasa5k) and CubiGraph5k (https://github.com/luyueheng/CubiGraph5K)
 
-Referrence for Pix2Pix Model:
+Reference for Pix2Pix Model:
 
 J. Brownlee, “How to Develop a Pix2Pix GAN for Image-to-Image Translation,” Machine Learning Mastery, 18-Jan-2021. [Online]. Available: https://machinelearningmastery.com/how-to-develop-a-pix2pix-gan-for-image-to-image-translation/. [Accessed: 15-Jun-2021]. 
 

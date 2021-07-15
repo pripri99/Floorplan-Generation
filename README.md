@@ -2,7 +2,7 @@
 
 
 # Data Generation
-Due to the lack of floorplan dataset. Try to generate our own dataset from images on the webstie
+Due to the lack of floorplan dataset. Try to generate our own dataset from  floorplan images on the website https://www.planimage.com/
 
 Reference for Unet model:
 O. Ronneberger, P. Fischer, and T. Brox, “U-Net: Convolutional Networks for Biomedical Image Segmentation,” arXiv.org, 18-May-2015. [Online]. Available: https://arxiv.org/abs/1505.04597. [Accessed: 4-May-2021]. 
